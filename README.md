@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm Sachin Goyal! 👋<br><br>I'm a passionate full-stack Python developer with a knack for building robust web applications. Welcome to my GitHub profile!</h2>
+<h2 align="left">Hi there, I'm Sachin Goyal! 👋<br><br>I'm a passionate full-stack Python developer with a knack for building robust web applications. Welcome to my GitHub profile!<br><br>🔭 Currently Working On<br>I'm deeply involved in developing full-stack applications using Python, Django, and JavaScript frameworks.<br><br>🌱 Learning Journey<br>I'm continuously expanding my skills and exploring new technologies to enhance my full-stack development expertise. Currently, I'm diving deeper into frontend frameworks like React and Vue.js to complement my backend proficiency.<br><br>👯 Open to Collaboration<br>I'm open to collaborating on exciting projects, especially those involving full-stack development challenges. Whether it's building scalable web applications or contributing to open-source projects, count me in!<br><br>🤔 Seeking Support<br>While navigating my full-stack development journey, I occasionally encounter challenges. I'm seeking support and insights on best practices, optimization techniques, and the latest trends in web development.<br><br>💬 Ask Me About<br>Feel free to ask me about Python, Django, Flask, frontend frameworks, RESTful APIs, database design, or anything related to full-stack development. I'm passionate about sharing my knowledge and helping others succeed.<br><br>📫 How to Reach Me<br>You can connect with me, Let's connect and discuss all things full-stack development!<br><br>😄 Pronouns<br>My pronouns are "Goyal." You can refer to me using my surname as a pronoun.<br><br>⚡ Fun Fact<br>Fun fact: I once traveled to five different countries in one month!</h2>
 
 ###
 
@@ -84,6 +84,26 @@
   <a href="https://www.linkedin.com/in/sachin-goyal-2472092b1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BUIhU7aa1ToCawgqe5Nr4oA%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/SachinGoyal-0/SachinGoyal-0/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SachinGoyal-0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SachinGoyal-0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SachinGoyal-0&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=SachinGoyal-0&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinGoyal-0&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SachinGoyal-0/count.svg?"  />
 </div>
 
 ###

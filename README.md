@@ -104,6 +104,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/SachinGoyal-0/SachinGoyal-0/output/snake.svg" alt="Snake animation" />
 
 ###
